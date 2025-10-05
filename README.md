@@ -57,20 +57,6 @@ pip install -r requirements.txt
 jupyter notebook signature_recognition_project.ipynb
 ```
 
-## 📁 Project Structure
-
-```
-signature-recognition/
-│
-├── signature_recognition_project.ipynb  # Main notebook
-├── README.md                           # Project documentation
-├── requirements.txt                    # Dependencies
-└── results/                           # Generated plots and reports
-    ├── cnn_training_curves.png
-    ├── confusion_matrices.png
-    ├── performance_comparison.png
-    └── classification_reports.txt
-```
 
 ## 🔍 Methodology
 
